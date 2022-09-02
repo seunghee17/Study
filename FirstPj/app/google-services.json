@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501325667624",
+    "project_id": "diettip-b2843",
+    "storage_bucket": "diettip-b2843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501325667624:android:983ecfcf620cd14bab041d",
+        "android_client_info": {
+          "package_name": "org.techtown.mydiettip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501325667624-kvq3bpts99d6ll70b8immc2b0lbf13n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChA0P7VHAAuG1M8LyuMFceWWM2VdygeOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501325667624-kvq3bpts99d6ll70b8immc2b0lbf13n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
